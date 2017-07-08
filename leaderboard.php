@@ -121,12 +121,13 @@
                   {
                   
                   
-                      ?>
+                  ?>
                <tr>
                   <td><?php if($prevscore!=$row['score'])
-                  				$rank=$rank+1;
-                  			echo $rank;
-                  		?></td>
+                  				        $rank=$rank+1;
+                  			     echo $rank;
+                  		?>  
+                  </td>
                   <td><a href="profile.php?id=<?php echo $row[id];?>"> <img src="img/profile/<?php echo $row[img];?>" alt="profilepic" style="width: 3rem; height: 3rem;"class="img-circle" /><?php echo $row['name'];?></a></td>
                   <td>
                   <?php if($rank==1) 
