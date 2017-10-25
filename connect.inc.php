@@ -1,9 +1,9 @@
 <?php
 
-	$host = "mysql.hostinger.in";
-	$user = "u219107807_pp";
-	$pass ="unicorn123";
-	$db = "u219107807_puzz";
+	$host = "";
+	$user = "";
+	$pass ="";
+	$db = "";
 	
 	$con = mysqli_connect($host,$user,$pass,$db);
 	
