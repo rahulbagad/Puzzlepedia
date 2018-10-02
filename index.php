@@ -417,10 +417,6 @@
                      <p>Here's the place wherein you can learn it in easy and playful way.</p>
                      <p>It's <strong>stock market game</strong> where you'll own virtual money.</p>
                      <p>Compete with others and conquer the leaderboard</p>
-                     <a href="http://gameofshares.esy.es">
-                        <p>Click Here and give a try...
-                        <p>
-                     </a>
                   </center>
                </div>
                <div class="modal-footer">
